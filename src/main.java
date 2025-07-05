@@ -30,6 +30,7 @@ public class main  {
 
         System.out.println("\nCliente compra el vehículo:");
         cliente.comprarVehiculo(auto1, concesionario);
+        System.out.println("HOLA MUNDO");
     }
 }
 
